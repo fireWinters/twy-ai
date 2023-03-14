@@ -11,7 +11,8 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "@tensorflow/tfjs": "^4.2.0"
+    "@tensorflow/tfjs": "^4.2.0",
+    "@tensorflow/tfjs-vis": "^1.5.1"
   },
   "devDependencies": {
     "buffer": "^5.5.0",
